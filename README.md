@@ -15,13 +15,13 @@ This InterActive Story talk about a boy named Ralph who lost his father to a car
 
 -----
 
-### what to expect
+### What to expect
 
 The decision you make will have direct effect on the outcome of the story.
 
 #### Based on your decision
 
-- The character died before knowing the truth
+- The character die before knowing the truth
 - The character  will unveil the truth
 - The character get revenge for his father and get jailed without knowing what was the true motive of his father's Killer
 
