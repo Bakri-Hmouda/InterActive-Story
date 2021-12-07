@@ -3,7 +3,7 @@
 
 ## Boy In A Crash
 
-this InterActive Story talk about a boy named Ralph who lost his father to a car crash, the crash suspicious and the truth will be unveiled thru out the story.
+This InterActive Story talk about a boy named Ralph who lost his father to a car crash, the crash suspicious and the truth will be unveiled thru out the story.
 
 -----
 
