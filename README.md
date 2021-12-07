@@ -19,7 +19,7 @@ This InterActive Story talk about a boy named Ralph who lost his father to a car
 
 The decision you make will have direct effect on the outcome of the story.
 
-####Based on your decision
+#### Based on your decision
 
 - The character died before knowing the truth
 - The character  will unveil the truth
